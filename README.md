@@ -1,4 +1,4 @@
 
 # blog-code
 
-* 带箭头的边框 border-triangle.html
+* 带箭头的边框 css/border-triangle.html
